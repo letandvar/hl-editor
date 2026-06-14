@@ -52,4 +52,4 @@ This work is published from: Morocco
 
 ## Favicon
 
-- Iconbuddy – Source of SVG favicon (hosted via catbox.moe)
+- Iconbuddy – Source of SVG favicon (hosted via https://catbox.moe)
