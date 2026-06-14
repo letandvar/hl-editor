@@ -39,3 +39,17 @@ CC0 1.0 Universal
 To the extent possible under law, the author has waived all copyright and related rights to this work.
 
 This work is published from: Morocco 
+
+
+## Libraries Used
+
+- Prism.js – Syntax highlighting for code editor  
+- js-beautify – Code formatting (HTML, CSS, JavaScript)
+
+## Icons
+
+- Flaticon – Icons used for toolbar buttons
+
+## Favicon
+
+- Iconbuddy – Source of SVG favicon (hosted via catbox.moe)
